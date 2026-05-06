@@ -63,7 +63,7 @@ https://api.freeapi.app/api/v1/public/meals
 
 Installation
 Clone the repository:
-git clone <your-github-repo-link>
+git clone https://github.com/Swagatika1982/freeapi-Recipeslisting.git
 Go to project folder:
 cd meals-listing-app
 Install dependencies:
